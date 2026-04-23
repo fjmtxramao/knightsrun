@@ -1,13 +1,21 @@
 {
   "name": "Knights Run",
   "short_name": "KnightsRun",
+  "description": "Jogo medieval runner",
   "start_url": "/knightsrun/",
-  "display": "standalone",
+  "display": "fullscreen",
+  "orientation": "landscape",
   "background_color": "#0a0514",
   "theme_color": "#f0c040",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192",
+      "src": "https://via.placeholder.com/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
