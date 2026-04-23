@@ -1,0 +1,15 @@
+{
+  "name": "Knights Run",
+  "short_name": "KnightsRun",
+  "start_url": "/knightsrun/",
+  "display": "standalone",
+  "background_color": "#0a0514",
+  "theme_color": "#f0c040",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
